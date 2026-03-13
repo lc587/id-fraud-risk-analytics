@@ -1,4 +1,4 @@
-# Identity Authentication Login Analytics
+# Fraud Identity Login Analytics
 
 In this project, we explored some of important features for fraud analytics, for instance, suspicious login attempts, high-frequency failed logins, multiple device logins, and frequent switches between geographic locations. These metrics serve as monitoring signals to detect potential fraudulent activity. Using information from a hacker IP dataset, we also analyzed known attack attempts and account takeover incidentsto have a bigger picture of the platform security and risk.
 
