@@ -30,3 +30,8 @@ Is Account Takeover        | Boolean   | Login attempt was identified as account
 
 ** Note there are 1526 entries in user agents strings from the original dataset could not be parsed, so their device type is empty.
 
+## Visuals
+
+We will include a snippet of the visuals here. The full report is available in the [preview](https://github.com/lc587/id-fraud-risk-analytics/blob/main/dashboards/dashboard_preview.pdf). 
+
+![Time series visual](dashboards/time_series_visual.png)
