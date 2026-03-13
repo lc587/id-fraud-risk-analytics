@@ -2,7 +2,7 @@
 
 
 This study used a synthesized dataset containing approximately 1 million login attempts from over 330k users of a large-scale online service in Norway. 
-The original data were collected between February 2020 and February 2021 as part of a research project on risk-based authentication. You can find more details aboout the study [here](https://github.com/das-group/rba-dataset). The dataset was created from real-world login behavior observed in a single sign-on (SSO) platform. To protect user privacy, all sensitive information was removed or anonymized, and does not allow re-identification of customers.
+The original data were collected between February 2020 and February 2021 as part of a research project on risk-based authentication. You can find more details about the study [here](https://github.com/das-group/rba-dataset). The dataset was created from real-world login behavior observed in a single sign-on (SSO) platform. To protect user privacy, all sensitive information was removed or anonymized, and does not allow re-identification of customers.
 
 ## Overview
 The data set contains the following features related to each login
